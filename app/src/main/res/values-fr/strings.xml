@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dakdakiapp</string>
+    <string name="stvLogin">authentifier</string>
+    <string name="shintLogin">entrer votre nom</string>
+    <string name="sbtnValider">inscrire</string>
+    <string name="pass">entrez votre mot de pass</string>
+    <string name="btn6">"revenir "</string>
+    <string name="btn3">autres options</string>
+    <string name="btn5">inscription</string>
+</resources>

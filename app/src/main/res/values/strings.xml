@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App khalissa </string>
+    <string name="stvLogin">Login</string>
+    <string name="shintLogin">Put your Login here</string>
+    <string name="sbtnValider">sign in</string>
+    <string name="pass">put your password here</string>
+    <string name="btn6">go back</string>
+    <string name="btn3">other options</string>
+    <string name="btn5">sign up</string>
+</resources>
